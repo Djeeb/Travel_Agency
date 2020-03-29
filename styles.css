@@ -49,6 +49,11 @@ a {
 .orange {
   color: #ff7a00;
 }
+
+.clear {
+  clear: both;
+}
+
 /* HEADER */
 
 header {
