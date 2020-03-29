@@ -50,6 +50,11 @@ a {
   color: #ff7a00;
 }
 
+
+.clear {
+  clear: both;
+}
+
 small {
   font-size: 13px;
   font-style: italic;
